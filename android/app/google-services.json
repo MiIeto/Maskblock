@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778838180",
+    "project_id": "maskblock-d4b71",
+    "storage_bucket": "maskblock-d4b71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778838180:android:0bc3edd61f60078245c631",
+        "android_client_info": {
+          "package_name": "com.example.maskblock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778838180-fb938h0qldfdpv9s14100fea8rgmhddj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcBhjI9GrwjM24IdsOsl4hMS73Xgzk40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778838180-fb938h0qldfdpv9s14100fea8rgmhddj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
